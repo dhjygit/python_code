@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f7a1eda-04f6-439b-8275-1ab38cf82b96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fAAuzfIHaMkj6GCeHcUfeWVrJS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f7a1eda-04f6-439b-8275-1ab38cf82b96" name="Default Changelist" comment="" />
+      <created>1595650749657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595650749657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="44" width="1030" height="858" key="#Project_Structure" timestamp="1595650756192">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="883" y="44" width="1030" height="858" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1595650756192" />
+    <state x="461" y="116" width="992" height="743" key="SettingsEditor" timestamp="1595650773202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="116" width="992" height="743" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1595650773202" />
+  </component>
+</project>
